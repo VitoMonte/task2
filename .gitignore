@@ -1,0 +1,8 @@
+/vendor
+/.phpintel
+client_secret.json
+composer.lock
+curl.php
+test
+test.php
+token.json
